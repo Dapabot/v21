@@ -1577,11 +1577,11 @@ Call / VC Bot = Self/Block
 Spam Bot = Ban + Block
 
 *Group Support*💬
-• *Group 1:* https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL
-• *Group 2:* https://chat.whatsapp.com/BoXaWqe3geWEDdq0v2f0Iy
+• *Group 1:* https://chat.whatsapp.com/
+• *Group 2:* https://chat.whatsapp.com/
 
 *Support Me*❤️
-• *https://www.youtube.com/channel/UCVSEzfCh6VYL3g9ixHnSqXQ*
+• *https://youtube.com/channel/UCdTdvjr8-fSP2i_WBbCQjoA*
 
 
 *Rest Api*
@@ -1606,11 +1606,11 @@ Spam Bot = Ban + Block
 
 *Sosial Media Creator* 
 • *Website:* https://saipulanuar.github.io/saipulstore
-• *Github:* https://github.com/Ksaipulanuar
-• *WhatsApp:* https://wa.me/6288279268363
-• *Youtube:* https://www.youtube.com/channel/UCVSEzfCh6VYL3g9ixHnSqXQ
+• *Github:* https://github.com/Dapabot
+• *WhatsApp:* https://wa.me/48459088084
+• *Youtube:* https://youtube.com/channel/UCdTdvjr8-fSP2i_WBbCQjoA
 • *Facebook:* https://www.facebook.com/raraharsita2
-• *Instagram:* https://www.instagram.com/drak_ipul123
+• *Instagram:* https://www.instagram.com/ariff4you_
 • *Tiktok:* https://www.tiktok.com/@raraharsita2
 
 
@@ -1651,7 +1651,7 @@ Spam Bot = Ban + Block
         stod = `${sender}`
         listMsg = {
           buttonText: 'Click Here',
-          footerText: `© Creator By KingOfBear Official`,
+          footerText: `© Creator By Yanz Official`,
           description: `hallo kak silahkan pilih disini kak, jangan spam ya kak`,
           sections: [
             {
@@ -1883,7 +1883,7 @@ Spam Bot = Ban + Block
               "description": `MENU NYA
 `,
               "currencyCode": "SEWABOT =",
-              "priceAmount1000": "20000 manen",
+              "priceAmount1000": "20.000 manen",
               "productImageCount": 3
             },
             "businessOwnerJid": "6288279268363@s.whatsapp.net",
@@ -2340,7 +2340,7 @@ break
       case 'kerangmenu':
       anu = await fetchJson(`https://apikey-bear3.herokuapp.com/api/textpro/transfomer?apikey=${bearkey}&text=${command}`)
         anu1 = await getBuffer(anu.result)
-        sendButLocation(from, kerangmenu(prefix, botName), `BY KingOfBear`, { jpegThumbnail: anu1 }, [{ buttonId: `${prefix}menu`, buttonText: { displayText: `${control.NamaBot}` }, type: 1 }], { contextInfo: { mentionedJid: [senderr,] } })
+        sendButLocation(from, kerangmenu(prefix, botName), `BY Yanz`, { jpegThumbnail: anu1 }, [{ buttonId: `${prefix}menu`, buttonText: { displayText: `${control.NamaBot}` }, type: 1 }], { contextInfo: { mentionedJid: [senderr,] } })
         break
       case 'rules':
       anu = await fetchJson(`https://apikey-bear3.herokuapp.com/api/textpro/transfomer?apikey=${bearkey}&text=${command}`)
@@ -2534,7 +2534,7 @@ break
         stod = `${sender}`
         listMsg = {
           buttonText: 'Click Here',
-          footerText: `© Creator By KingOfBear Official`,
+          footerText: `© Creator By Yanz Official`,
           description: `hallo kak silahkan pilih disini kak, jangan spam ya kak`,
           sections: [
             {
@@ -2591,7 +2591,7 @@ break
         stod = `${sender}`
         listMsg = {
           buttonText: 'Click Here',
-          footerText: `© Creator By KingOfBear Official`,
+          footerText: `© Creator By Yanz Official`,
           description: `hallo kak silahkan pilih disini kak, jangan spam ya kak`,
           sections: [
             {
@@ -2638,7 +2638,7 @@ break
         stod = `${sender}`
         listMsg = {
           buttonText: 'Click Here',
-          footerText: `© Creator By KingOfBear Official`,
+          footerText: `© Creator By Yanz Official`,
           description: `hallo kak silahkan pilih disini kak, jangan spam ya kak`,
           sections: [
             {
@@ -2702,12 +2702,12 @@ case 'donasi':
 case 'donate':
 tes = await fetch(`https://github.com/saipulanuar/Api-Github/raw/main/audio/Donasiku.mp3`)
 reply(`╔════════════════════
-║ *DONASI UNTUK KingOfBear BOTZ*
+║ *DONASI UNTUK YANZ BOTZ*
 ╠════════════════════
 ║╭──❉ *DONASI KAK* ❉─────
-║│➸ *DANA* : 0882-7926-8363
+║│➸ *DANA* : _Tidak Tersedia_
 ║│➸ *GOPAY* : _Pm Owner Minta Qr_
-║│➸ *OVO* : _Pm Owner Minta Qr_
+║│➸ *OVO* : _Tidak Tersedia_
 ║│➸ *PULSA* : _Tidak Tersedia_
 ║╰──────────────────
 ╠════════════════════
@@ -2716,7 +2716,7 @@ reply(`╔════════════════════
 ║  ▌│█║▌║▌║║▌║▌║█│▌
 ║        
 ╠════════════════════
-║ _*© CREATOR BY KingOfBear Official*_
+║ _*© CREATOR BY Yanz Official*_
 ╚════════════════════`)
 KingOfBear.sendMessage(from, tes, audio, { mimetype: 'audio/mp4', ptt: true, quoted: ftroli })
 break
@@ -2727,7 +2727,7 @@ reply(`━━━━━『 *LIST SEWA BOT* 』━━━━━
 ❏ PERHARI : 1 HARI 2K, 5 HARI 10K 
 ❏ PERMINGGU : 1MIN. 14K, 2MIN. 28K, 3MIN. 60K,
 ❏ PERBULAN : 1B. 30K, 2B. 70K, 3B. 140K,
-❏ PERTAHUN : 1THN. 350K, 2THN. 700K,
+❏ PERTAHUN : 1THN. 350K, 2THN. 500K,
 ❏ PERMANEN : TIMDAK TERSEDIA!
 *minat chat owner*`)
 KingOfBear.sendMessage(from, tes, audio, { mimetype: 'audio/mp4', ptt: true, quoted: ftroli })
@@ -2773,7 +2773,7 @@ Bisa fitur tutup grup
 Bisa fitur buka grup
 Dll
 _____________________________________
-Buy cuma 30k
+Buy cuma 40k
 minat chat owner`)
 KingOfBear.sendMessage(from, tes, audio, { mimetype: 'audio/mp4', ptt: true, quoted: ftroli })
 break
@@ -2800,7 +2800,7 @@ reply(`*💎DIAMOND ML💎*
 2700💎=Rp.570.000
  
 ➖➖➖➖➖➖➖➖➖➖➖
- *_© Creator By KingOfBear Official_*    
+ *_© Creator By Yanz Official_*    
 ➖➖➖➖➖➖➖➖➖➖➖`)
 break
 case 'topupff':
@@ -2826,11 +2826,11 @@ reply(`*💎DIAMOND FREE FIRE💎*
 2720💎 342.500
 3000💎 380.000
 4000💎 500.000
-MM : 28.000
-MB  : 140.000
+MM : 29.000
+MB  : 142.000
  
 ➖➖➖➖➖➖➖➖➖➖➖
- *_©Creator by KingOfBear Official_*    
+ *_©Creator by Yanz Official_*    
 ➖➖➖➖➖➖➖➖➖➖➖`)
 break
 case 'topuppubg':
@@ -2841,7 +2841,7 @@ reply(`➖➖➖➖➖➖➖➖➖➖➖
 - 🎟️240 = Rp56.000
  
 ➖➖➖➖➖➖➖➖➖➖➖
- *_©Creator By KingOfBear Official_*    
+ *_©Creator By Yanz Official_*    
 ➖➖➖➖➖➖➖➖➖➖➖`)
 break
 case 'topuppb':
@@ -2851,7 +2851,7 @@ reply(`*🎟️POINT BLANK🎟️*
 _tidak tersedia, ke Indomaret Sono_
  
 ➖➖➖➖➖➖➖➖➖➖➖
- *_© Creator By KingOfBear Official_*    
+ *_© Creator By Yanz Official_*    
 ➖➖➖➖➖➖➖➖➖➖➖`)
 break
 case 'topupgopay':
@@ -3088,7 +3088,7 @@ Ketik ${prefix}delttc , Untuk Mereset Permainan Yg Ada Di Grup!`, text, { contex
       case "tes":
         if (isBanned) return reply(mess.ban)
         if (isBanchat) return
-        sendButMessage(from, `Nyala Om`, [
+        sendButMessage(from, `Yanz Botz`, [
           {
             buttonId: `${prefix}runtime`,
             buttonText: {
@@ -3202,7 +3202,7 @@ Ketik ${prefix}delttc , Untuk Mereset Permainan Yg Ada Di Grup!`, text, { contex
         buttons = [{ buttonId: `${prefix}mining`, buttonText: { displayText: 'MINING' }, type: 1 }, { buttonId: `${prefix}leaderboard`, buttonText: { displayText: 'LEADEBOARD' }, type: 1 }]
         imageMsg = (await KingOfBear.prepareMessageMedia(buffer, "imageMessage", { thumbnail: buffer, })).imageMessage
         buttonsMessage = {
-          footerText: '®KingOfBear', imageMessage: imageMsg,
+          footerText: '®Yanz BOTZ', imageMessage: imageMsg,
           contentText: `${teks}`, buttons, headerType: 4
         }
         prep = await KingOfBear.prepareMessageFromContent(from, { buttonsMessage }, { quoted: ftroli })
@@ -5959,11 +5959,11 @@ break
           "templateMessage": {
             "hydratedFourRowTemplate": {
               "hydratedContentText": "Hello,\nSelamat Datang KingOfBear Razzaq",
-              "hydratedFooterText": "Debug By KingOfBear",
+              "hydratedFooterText": "Debug By Yanz",
               "hydratedButtons": [
                 {
                   "urlButton": {
-                    "displayText": "Join Group Whatsapp KingOfBear Razzaq",
+                    "displayText": "Join Group Whatsapp YANZ BOTZ",
                     "url": "https://chat.whatsapp.com/KdA0jvJmgQ49uIIg7NmGVJ"
                   },
                   "index": 0
@@ -5971,7 +5971,7 @@ break
               ]
             },
             "hydratedTemplate": {
-              "hydratedContentText": "Hello,\nSelamat Datang KingOfBear Razzaq",
+              "hydratedContentText": "Hello,\nSelamat Datang Yanz Ganz",
               "hydratedFooterText": "Debug By KingOfBear",
               "hydratedButtons": [
                 {
