@@ -77,7 +77,7 @@ owner = control.NomorOwner
 global.healawal = "10",
   global.potionawal = "10",
   za_api = "ApKingOfBearBot"
-LolApi = "${control.lolkey}" //Ganti sama Api lu
+LolApi = "26126a44bd49f52ef4758671" //Ganti sama Api lu
 zenzapi = "LordKingOfBear"
 kimak = "Lagi Nyari Script Bot Ku Ya:v"
 kimak2 = `Nih Link Nya Di Bawah\n\n${control.bearkey}`
@@ -1577,7 +1577,7 @@ Call / VC Bot = Self/Block
 Spam Bot = Ban + Block
 
 *Group Support*💬
-• *Group 1:* https://chat.whatsapp.com/
+• *Group 1:* https://chat.whatsapp.com/Ch5rqamn6dE94g1L5ih4uM
 • *Group 2:* https://chat.whatsapp.com/
 
 *Support Me*❤️
