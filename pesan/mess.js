@@ -5,7 +5,7 @@ module.exports.mess = {
 			limit: `Limit kamu sudah habis silahkan kirim .limit untuk mengecek limit`,
 			wrongFormat: 'Format salah, coba liat lagi di menu',
 			error: {
-				api: 'Maaf, seperti terjadi kesalahan',
+				api: 'Maaf, seperti terjadi kesalahan❗',
 				stick: 'Itu bukan stiker kak... Hadeeh',
 				Iv: 'Link mungkin tidak valid'
 			},
