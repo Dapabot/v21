@@ -1627,7 +1627,7 @@ Spam Bot = Ban + Block
 • *Mhankbarbar (big mastah)*
 • *Lexxy official*
 • *Herman chanel*
-• *Yanz bot*
+• *Yanz bot (saya*
 • *All creator bot*`, imageMessage: imageMsg,
           buttons: buttons,
           headerType: 4
@@ -1639,7 +1639,7 @@ Spam Bot = Ban + Block
               title: `halo kak👋 ${pushname} `,
               body: `${ucapanWaktu} Semoga harimu menyenangkan`,
               mediaType: 2,
-              mediaUrl: "https://www.instagram.com/drak_ipul123",
+              mediaUrl: "https://www.instagram.com/ariff4you_",
               thumbnail: fs.readFileSync('./foto/KingOfBear.jpg'),
             }, forwardingScore: 508, isForwarded: true, mentionedJid: [Tag + '@s.whatsapp.net', senderr]                        
           }
@@ -2684,7 +2684,7 @@ break
         /////CASEEEEE NYAAAH BWANG
         case 'igowner':
         tes = fs.readFileSync('./media/audio/tes.mp3')
-        reply(`*https://www.instagram.com/drak_ipul123*`)
+        reply(`*https://www.instagram.com/ariff4you_*`)
         KingOfBear.sendMessage(from, tes, audio, { mimetype: 'audio/mp4', ptt: true, quoted: ftroli })
         break
         case 'totalfitur':
@@ -2708,7 +2708,7 @@ reply(`╔════════════════════
 ║│➸ *DANA* : _Tidak Tersedia_
 ║│➸ *GOPAY* : _Pm Owner Minta Qr_
 ║│➸ *OVO* : _Tidak Tersedia_
-║│➸ *PULSA* : _Tidak Tersedia_
+║│➸ *PULSA* : _pm owner minta nopul!_
 ║╰──────────────────
 ╠════════════════════
 ║       
@@ -5274,7 +5274,7 @@ break
         buttons = [{ buttonId: `${prefix}menu`, buttonText: { displayText: `BACK MENU` }, type: 1 }]
         imageMsg = (await KingOfBear.prepareMessageMedia(buff, "imageMessage", { thumbnail: buff, })).imageMessage
         buttonsMessage = {
-          footerText: 'follow @KingOfBeargns', imageMessage: imageMsg,
+          footerText: 'follow @ariff4you_', imageMessage: imageMsg,
           contentText: `©WhatsApp bot`, buttons, headerType: 4
         }
         prep = await KingOfBear.prepareMessageFromContent(from, { buttonsMessage }, { quoted: fgif })
@@ -5972,7 +5972,7 @@ break
             },
             "hydratedTemplate": {
               "hydratedContentText": "Hello,\nSelamat Datang Yanz Ganz",
-              "hydratedFooterText": "Debug By KingOfBear",
+              "hydratedFooterText": "Debug By Yanzgans",
               "hydratedButtons": [
                 {
                   "urlButton": {
